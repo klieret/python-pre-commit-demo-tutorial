@@ -1,4 +1,4 @@
-# Python pre-commit
+# Usage example of pre-commit for python projects
 
 Clone the demo repository
 
