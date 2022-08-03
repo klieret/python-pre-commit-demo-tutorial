@@ -1,5 +1,14 @@
 # Usage example of pre-commit for python projects
 
+[![PR welcome](https://img.shields.io/badge/PR-Welcome-%23FF8300.svg)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+
+This repository demonstrates how you can catch a lot of python issues with
+[pre-commit](https://pre-commit.com/).
+
+Part of the lecture [Everything you didn't know you needed](https://github.com/klieret/everything-you-didnt-now-you-needed).
+
+## Exercise
+
 Clone the demo repository
 
 ```bash
