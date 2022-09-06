@@ -45,4 +45,3 @@ Try one of the following and then try to commit (`git commit -a`):
 5. Add additional whitespace at the end of any line (`end-of-line-fixer` will fix it for you)
 
 If you ever get stuck, run `git stash` ("stashes" away your changes).
-
