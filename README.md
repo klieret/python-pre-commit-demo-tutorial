@@ -13,7 +13,7 @@ Clone the demo repository
 
 ```bash
 git clone https://github.com/klieret/python-pre-commit-demo-tutorial.git
-cd python-pre-commit-demo-tutorial.git
+cd python-pre-commit-demo-tutorial
 ```
 
 If you haven't done already, install the `pre-commit` package:
