@@ -19,7 +19,8 @@ cd python-pre-commit-demo-tutorial
 If you haven't done already, install the `pre-commit` package:
 
 ```bash
-pip3 install pre-commit
+pip3 install pipx
+pipx install pre-commit
 ```
 
 Let's take a look at the `pre-commit` configuration from the repository:
