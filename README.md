@@ -39,7 +39,9 @@ pre-commit install
 
 Now let's open the `test.py` file in your favorite editor.
 
-Try one of the following and then try to commit (`git commit -a`):
+Try one of the following and then try to commit (`git commit -a`).
+Alternatively, you can also simply run `pre-commit run -a` to run `pre-commit`
+over all files.
 
 1. Replace `return a + b` with `return None` (`mypy` will complain!)
 2. Remove spaces between `+` (`black` will automatically reformat the file and add the spaces back)
