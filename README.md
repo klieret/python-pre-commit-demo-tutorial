@@ -39,7 +39,10 @@ pre-commit install
 
 Now let's open the `test.py` file in your favorite editor.
 
-Try one of the following and then try to commit (`git commit -a`).
+Try one/each of the following modifications to `test.py`.
+
+After every modification, try to commit your change (`git commit -a`) and
+see what happens.
 Alternatively, you can also simply run `pre-commit run -a` to run `pre-commit`
 over all files.
 
@@ -49,4 +52,7 @@ over all files.
 4. Import `math` (`flake8` will complain about an unused iport)
 5. Add additional whitespace at the end of any line (`end-of-line-fixer` will fix it for you)
 
-If you ever get stuck, run `git stash` ("stashes" away your changes).
+> **Note**:
+> If you ever get stuck, run `git stash` ("stashes" away your changes) or
+> `git reset --hard` (don't do that on an important repository without understanding
+> the implications).
